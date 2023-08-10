@@ -1,0 +1,14 @@
+# Jobs
+# VP of Global Communications
+- company: Cambly Inc.
+  position: Software Enginner Intern
+  url: www.cambly.com
+  duration: May, 2023 &mdash; Aug, 2023
+  summary: <ul class="resume-item-list"><li>Developed and launched Tutor Recommendations and Student Dashboard V2 features, driving rapid adoption and boosting platform engagement.</li><li>Actively participated in daily meetings, addressed Jira tasks, and collaborated with product teams using Figma, emulating the responsibilities of a full-time engineer.</li><li>Crafted production-grade frontend components with React, Typescript, and Redux; integrated seamlessly with Flask APIs, MongoDB, and deployed using Docker and AWS.</li><li>Contributed to GitHub PR reviews, embraced the company's coding standards, and navigated the company's frontend library.</li></ul>
+
+# Director of Digital Stratgy
+- company: Suit & Tie Consulting
+  position:  Software Enginner Intern
+  url: www.suitntie.cn
+  duration:  May, 2022 &mdash; Aug, 2022 
+  summary: <ul class="resume-item-list"><li>Collaborated on the development of SaaS solutions for international school educators, harnessing React, JavaScript, Umi.js, Ant Design, the Django framework, and a MySQL database.</li><li>Enhanced the company's customer-facing pages with server-side rendering using Next.js, ensuring better SEO performance and user experience.</li></ul>

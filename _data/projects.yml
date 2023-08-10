@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: E-Commerce Website (Full-stack)
+  role: Primary Developer
+  duration: Mar. 2022 &mdash; May 2022 
+  # url: "#"
+  description: Established a full-stack responsive E-Commerce website with React, Django, and PostgreSQL. Implemented functionalities for user registration, cart, payments, rating, and review system. Utilized Redux to control application states and CSS media queries for advanced responsive design
+
+# Springfield Community Outreach Group
+- project: Notes & To-do List Application (Full-stack)        
+  role: Primary Developer
+  duration: Oct. 2021 &mdash; Nov. 2021
+  # url: "#"
+  description: SBuilt a single-page notes & to-do list application using JavaScript, React, Redux, and Node.js. Designed and implemented RESTful APIs and data models with MongoDB. Containerized services by Docker and deployed application on Heroku.
